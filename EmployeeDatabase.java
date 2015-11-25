@@ -4,7 +4,7 @@ import java.util.Scanner;
  */
 
 
-public class EmpoyeeDatabase {
+public class EmployeeDatabase {
     public static void main(String[] args) {
 
         Employee[] employees = {new Employee("David Beckham", 41, "President", 230000.0), new Employee("Helen Pinterest", 41, "Chief Executive", 230000.0), new Employee("Ada Lovelace", 41, "Vice President", 230000.0), new Employee("Edward Bananahead", 41, "President", 230000.0)};
